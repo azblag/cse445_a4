@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Blake Guinn - 1237615290 - CSE 445-->
+<NationalPark>
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.6">
+    <Name>Kenai Fjords</Name>
+    <Phone>907-422-0500</Phone>
+    <Phone>907-318-2040</Phone>
+    <Address NearestAirport="Anchorage">
+      <Number>1727</Number>
+      <Street>PO Box</Street>
+      <City>Seward</City>
+      <State>AK</State>
+      <Zip>99664</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.2">
+    <Name>Death Valley</Name>
+    <Phone>760-786-3200</Phone>
+    <Address NearestAirport="Las Vegas">
+      <Number>579</Number>
+      <Street>PO Box</Street>
+      <City>Death Valley</City>
+      <State>CA</State>
+      <Zip>92328</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.5">
+    <Name>Saguaro</Name>
+    <Phone>520-733-5153</Phone>
+    <Phone>520-733-5158</Phone>
+    <Phone>520-733-5100</Phone>
+    <Address>
+      <Number>3693</Number>
+      <Street>S Old Spanish Trail</Street>
+      <City>Tucson</City>
+      <State>AZ</State>
+      <Zip>85730</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.9">
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Phone>307-344-2117</Phone>
+    <Address NearestAirport="Bozeman">
+      <Number>168</Number>
+      <Street>PO Box</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Virgin Islands</Name>
+    <Phone>340-776-6201</Phone>
+    <Address NearestAirport="St. Thomas">
+      <Number>1300</Number>
+      <Street>Cruz Bay Creek</Street>
+      <City>St. John</City>
+      <State>VI</State>
+      <Zip>00830</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.5">
+    <Name>Petrified Forest</Name>
+    <Phone>928-524-6228</Phone>
+    <Address NearestAirport="Flagstaff">
+      <Number>2217</Number>
+      <Street>PO Box</Street>
+      <City>Petrified Forest</City>
+      <State>AZ</State>
+      <Zip>86028</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.3">
+    <Name>Glacier Bay</Name>
+    <Address NearestAirport="Gustavus">
+      <Number>140</Number>
+      <Street>PO Box</Street>
+      <City>Gustavus</City>
+      <State>AK</State>
+      <Zip>99826</Zip>
+    </Address>
+  </NationalPark>
+  
+  <NationalPark>
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George">
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.7">
+    <Name>Redwood</Name>
+    <Phone>707-464-6101</Phone>
+    <Address NearestAirport="Crescent City">
+      <Number>1111</Number>
+      <Street>Second Street</Street>
+      <City>Crescent City</City>
+      <State>CA</State>
+      <Zip>95531</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark>
+    <Name>Denali</Name>
+    <Name>Denali</Name>
+    <Phone>907-683-9532</Phone>
+    <Phone>907-683-2294</Phone>
+    <Address NearestAirport="Fairbanks">
+      <Number>9</Number>
+      <Street>PO Box</Street>
+      <City>Denali Park</City>
+      <State>AK</State>
+      <Zip>99755</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.4">
+    <Name>Yosemite</Name>
+    <Phone>209-372-0200</Phone>
+    <Address NearestAirport="Fresno Yosemite International Airport">
+      <Number>577</Number>
+      <Street>PO Box</Street>
+      <City>Yosemite</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    
+  </NationalPark>
+
+
+</NationalPark>
